@@ -1,0 +1,14 @@
+https://github.com/gayat19/KaniniAug2021Batch2.git
+SQl Server
+Sql Management Studio
+VS 2019 SQl Server
+Angular 8 or above
+Postman
+node
+
+ASP.Net and Web Development
+Azure Development
+.NET Desktop Development
+Universal Windows Development
+Data and storage Processing
+.NET cross platform development
